@@ -9,9 +9,6 @@ This repository focuses on the implementation of keypoint extraction techniques 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -25,6 +22,8 @@ This repository focuses on the implementation of keypoint extraction techniques 
    ```bash
    git clone https://github.com/ViditSheth77/KeypointExtraction-Autonomous-vehicle.git
 
+
+## Usage
 
 2. Execute the code on the local device and change the dataset accordingly.
    ```bash
